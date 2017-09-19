@@ -1,0 +1,12 @@
+p{
+	width: 200px;
+	color: white;
+	padding: 10px 20px;
+	border: 2px dotted white;
+	background: grey
+
+}
+
+.marginStyle{
+	margin-top: 30px
+}
